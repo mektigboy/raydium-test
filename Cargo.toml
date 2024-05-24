@@ -7,6 +7,7 @@ edition = "2021"
 anyhow = "1.0.86"
 dotenv = "0.15.0"
 # raydium_amm = { git = "https://github.com/protecc-labs/raydium-amm", branch = "master", default = "program" }
+solana-account-decoder = "1.18.14"
 solana-client = "1.18.14"
 solana-program = "1.18.14"
 solana-sdk = "1.18.14"

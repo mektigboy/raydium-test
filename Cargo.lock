@@ -2576,6 +2576,7 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
  "dotenv",
+ "solana-account-decoder",
  "solana-client",
  "solana-program",
  "solana-sdk",
